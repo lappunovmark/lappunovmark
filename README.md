@@ -24,7 +24,7 @@ such programmes. Tested in CI, with every headline number checked against the mo
 ### Background
 - **Skoltech**: bacterial defence against phages. First experimental evidence of restriction alleviation in a type II
   restriction–modification system; Python pipelines that process metagenomic data and generate monthly research reports
-- **Russian Academy of Sciences**: ~73% higher yield of the anti-TNF mini-antibody MYSTI-2 in auto-induction medium
+- **Russian Academy of Sciences**: raised the yield of the anti-TNF mini-antibody MYSTI-2 from ~120 to ~200 µg/mL at 24 h by switching to auto-induction medium; presented at Lomonosov-2025 (MSU)
 - **Westlake University**: full-ride Frontiers of Life Sciences program (~3% acceptance); protein design and purification
 - BSc Biotechnology, Sechenov University (GPA 4.81/5.0; thesis defended with highest distinction)
 
