@@ -26,7 +26,11 @@ such programmes. Tested in CI, with every headline number checked against the mo
   restriction–modification system; Python pipelines that process metagenomic data and generate monthly research reports
 - **Russian Academy of Sciences**: raised the yield of the anti-TNF mini-antibody MYSTI-2 from ~120 to ~200 µg/mL at 24 h by switching to auto-induction medium; presented at Lomonosov-2025 (MSU)
 - **Westlake University**: full-ride Frontiers of Life Sciences program (~3% acceptance); protein design and purification
-- BSc Biotechnology, Sechenov University (GPA 4.81/5.0; thesis defended with highest distinction)
+- **ZOZH (Zozh Foods), New York, remote**: market and product strategy for a personalised-nutrition startup; analysed
+  U.S. supplement demand and the effect of GLP-1 drugs on eating behaviour
+- **R&D Pharma, Monaco, remote**: literature reviews and experimental-design input for a medical device for skin lesions
+- MSc Bioinformatics and Molecular Biotechnology, HSE University (2025–26); BSc Biotechnology, Sechenov University
+  (GPA 4.81/5.0; thesis defended with highest distinction)
 
 ### Tools
 **Data & AI:** Python (pandas, statsmodels, RapidFuzz, matplotlib), OpenAI API, n8n, pytest, GitHub Actions
