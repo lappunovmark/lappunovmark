@@ -11,12 +11,14 @@ different question: how capital decides which science becomes a product.
 pipeline (Open Targets, ClinicalTrials.gov, NIH RePORTER) on 35,887 drug × indication programmes. It reproduces the
 genetic-support analysis of Minikel et al. (*Nature*, 2024) exactly and extends it to sponsor type: human genetic
 support predicts phase advancement about equally for small biotechs and top-20 pharma, yet small sponsors start fewer
-such programmes. Tested in CI, with every headline number checked against the model output.
+such programmes. Sponsors that raised private money (SEC Form D) do not pick better-supported targets either. Tested
+in CI, with every headline number checked against the model output.
 
 [![Pilot results at a glance](https://raw.githubusercontent.com/lappunovmark/vc-genetics-pilot/main/figures/results_glance.png)](https://github.com/lappunovmark/vc-genetics-pilot)
 
 ### What I'm working on
-- Linking venture rounds from SEC Form D filings to clinical programmes, to compare VC-backed and non-VC-backed sponsors
+- Separating venture-backed from other privately financed biotechs: SEC Form D private placements are now linked to
+  trial sponsors; next come a US-only comparison and the venture investors named on each filing
 - An AI tool that would turn static PDF lab protocols into interactive checklists with timers, a protocol Q&A
   assistant and auto-generated reports, growing out of the Python pipelines I wrote at Skoltech
 - **BioSauna**, a bioactive steam-therapy startup that won ~$16k in non-dilutive university grants
