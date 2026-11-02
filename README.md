@@ -8,11 +8,11 @@ different question: how capital decides which science becomes a product.
 
 ### Featured research
 **[Do investors pick better biology?](https://github.com/lappunovmark/vc-genetics-pilot)** A reproducible open-data
-pipeline (Open Targets, ClinicalTrials.gov, NIH RePORTER) on 35,887 drug × indication programmes. It reproduces the
+pipeline (Open Targets, ClinicalTrials.gov, NIH RePORTER, SEC Form D) on 35,887 drug × indication programmes. It reproduces the
 genetic-support analysis of Minikel et al. (*Nature*, 2024) exactly and extends it to sponsor type: human genetic
 support predicts phase advancement about equally for small biotechs and top-20 pharma, yet small sponsors start fewer
-such programmes. Sponsors that raised private money (SEC Form D) do not pick better-supported targets either. Tested
-in CI, with every headline number checked against the model output.
+such programmes, and there is no sign that sponsors which raised private money (SEC Form D) pick better-supported
+targets. Tested in CI, with every headline number checked against the model output.
 
 [![Pilot results at a glance](https://raw.githubusercontent.com/lappunovmark/vc-genetics-pilot/main/figures/results_glance.png)](https://github.com/lappunovmark/vc-genetics-pilot)
 
@@ -31,7 +31,7 @@ in CI, with every headline number checked against the model output.
 - **ZOZH (Zozh Foods), New York, remote**: market and product strategy for a personalised-nutrition startup; analysed
   U.S. supplement demand and the effect of GLP-1 drugs on eating behaviour
 - **R&D Pharma, Monaco, remote**: literature reviews and experimental-design input for a medical device for skin lesions
-- MSc Bioinformatics and Molecular Biotechnology, HSE University (2025–26); BSc Biotechnology, Sechenov University
+- MSc Molecular and Cellular Biotechnology, HSE University (first year, 2025–26); BSc Biotechnology, Sechenov University
   (GPA 4.81/5.0; thesis defended with highest distinction)
 
 ### Tools
